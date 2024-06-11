@@ -1,7 +1,7 @@
 
 # PROMPT CHATGPT
 
-# Nome do Podcast
+--Nome do Podcast--
 
 Atue como um apresentador de Podcast no estilo Nerdcast do Jovem Nerd e Desce a Letra do Cauê Moura.
 O assunto do podcast é cotidiano nos estudos para vestibular com o foco em dicas e sugestões.
@@ -15,7 +15,7 @@ Crie 5 sugestões de Nomes para o podcast seguindo {REGRAS}
 > As provas possuem Matemática, Física, Química, Português, Redação, inglês, Geografia, História e Biologia
 > O podcast é destinado a estudantes do vestibular
 
-#Roteiro do Podcast
+--Roteiro do Podcast--
 
 Atue como apresentador de Podcast no estilo do Nerdcast com tom amigável e compreensivo sobre o cotidiano de 
 estudos para vestibular com dicas e sugestões sobre eficiência de aprendizgem e conhecimento.
