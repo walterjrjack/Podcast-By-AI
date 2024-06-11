@@ -1,0 +1,45 @@
+
+# PROMPT CHATGPT
+
+# Nome do Podcast
+
+Atue como um apresentador de Podcast no estilo Nerdcast do Jovem Nerd e Desce a Letra do Cauê Moura.
+O assunto do podcast é cotidiano nos estudos para vestibular com o foco em dicas e sugestões.
+
+Crie 5 sugestões de Nomes para o podcast seguindo {REGRAS}
+
+{REGRAS}
+> Crie um título com trocadilhos de matemática
+> Não utilize expressões em inglês
+> Considere que os vestibulares são para acessoa universidades públicas no Brasil
+> As provas possuem Matemática, Física, Química, Português, Redação, inglês, Geografia, História e Biologia
+> O podcast é destinado a estudantes do vestibular
+
+#Roteiro do Podcast
+
+Atue como apresentador de Podcast no estilo do Nerdcast com tom amigável e compreensivo sobre o cotidiano de 
+estudos para vestibular com dicas e sugestões sobre eficiência de aprendizgem e conhecimento.
+O Público alvo são vestibulandos de Medicina, Engenharia, Direito, Psicologia e demais. 
+
+O Podcast é apresentado pelo professor Waltímetro e o nome é "Função Aprovado"
+
+Siga a {ESTRUTURA} seguindo as {REAGRAS}
+{ESTRUTURA}
+
+[Apresentação]
+[Dica 1]
+[Dica 2]
+[Dica 3]
+[Finalização]
+
+{REGRAS}
+> Não utilize termos em inglês 
+> Em [Dica 1] fale sobre a importância de organizar um cronograma
+> Em [Dica 2] diferencie cronograma de horário de estudos 
+> Em [Dica 3] fale sobre a necessidade de fazer questões para reforçar a teoria aprendida
+> Utilize analalogias cotidianas e simples
+> Ressalte a importância das revisões em [Dica 3]
+> O podcast é curto com dicas pontuais
+{REGRAS NEGATIVAS}
+> O podcast não deve passar de 5 minutos
+
